@@ -30,4 +30,6 @@ uBlock Origin
 Bootstrap
 GitHubi kasutavad oma koodivaramuna ka mitmed Eesti idufirmad, näiteks TransferWise ja Pipedrive. Samuti hoiustab osa eID koodist GitHubis Riigi Infosüsteemi Amet (RIA) ning võib leida ka muud avatud lähtekoodil põhinevat Eesti riigiametite poolt loodud tarkvara.
 
+
 Mina saan Githubi kasutada näiteks mingi töö automatiseerimiseks. Samuti saan luua avalikke repositooriume kus näitan oma oskusi näiteks skriptimine, automatiseerimine.
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. 2009. aasta algusest muutus GitHub aina populaarsemaks, ning sama aasta 24. veebruaril teatasid GitHubi loojad, et esimese aasta jooksul kogunes GitHubi 46 000 koodivaramut, millest koguni 17 000 olid loodud 2009. aasta alguses. Sama aasta 5. juulil teatati, et GitHubi on registreerunud üle 100 000 kasutaja. 27. juuliks oli GitHubi kogunenud juba 90 000 unikaalset koodivaramut.
