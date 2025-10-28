@@ -1,0 +1,33 @@
+GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara.
+
+GitHubi peamine kasutus on koodi majutus ja versioonihaldus.
+
+Lisaks sellele võimaldab GitHub ka:
+
+koodi dokumentatsiooni README-failide kaudu
+vigadest teatamist (kaasa arvatud soovitusi koodi parandamiseks ja uuteks funktsioonideks)
+projektidele viki loomist
+võimalust ise koodi parandada ning pakkuda selle kasutamist koodivaramu haldaja(te)le ("pull request")
+muudatuste ajalugu
+graafikuid ja muud statistikat iga projekti kohta
+emojide kasutust
+GitHub Pages: avalikes varamutes on võimalik hoiustada väikseid veebilehti, mida üldiselt kasutatakse blogideks või koodi dokumentatsiooniks
+3D mudelite vaatamist otse brauseris
+Adobe Photoshopi PSD-failide vaatamist brauseris ning nende ajaloo võrdlemist
+PDF-failide vaatamist brauseris
+tüüpiliste turvariskide automaatselt avastamist koodist
+GitHub pakub ka "pastebin" tüüpi teenust Gist, mida saab kasutada koodilõikude majutuseks. See erineb GitHubi teenusest, mis on mõeldud suuremate koodiprojektide jaoks.
+
+Mitmed tuntud avatud lähtekoodi põhitavasid jälgivad organisatsioonid ja projektid kasutavad GitHubi oma koodi haldamiseks ja majutamiseks, näiteks:
+
+Apache HTTP Serveri arendaja Apache Software Foundation
+Node.js
+npm
+MySQL
+Microsoft
+Google
+uBlock Origin
+Bootstrap
+GitHubi kasutavad oma koodivaramuna ka mitmed Eesti idufirmad, näiteks TransferWise ja Pipedrive. Samuti hoiustab osa eID koodist GitHubis Riigi Infosüsteemi Amet (RIA) ning võib leida ka muud avatud lähtekoodil põhinevat Eesti riigiametite poolt loodud tarkvara.
+
+Mina saan Githubi kasutada näiteks mingi töö automatiseerimiseks. Samuti saan luua avalikke repositooriume kus näitan oma oskusi näiteks skriptimine, automatiseerimine.
